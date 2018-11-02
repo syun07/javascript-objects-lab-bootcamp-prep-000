@@ -19,14 +19,3 @@ function destructivelyDeleteFromObjectByKey(object, key) {
   delete recipe[key]
   return recipe
 }
-
-
-
-
-
-
-
-
-
-
-
